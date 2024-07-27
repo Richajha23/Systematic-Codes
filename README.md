@@ -42,11 +42,6 @@ Welcome to my GitHub profile! I'm a passionate learner with skills in HTML, C, C
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or learn together.
-
-
-<h1 align="center">Hi 👋, I'm Richa Jha</h1>
-<h3 align="center">A passionate coding student from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richajha23&label=Profile%20views&color=0e75b6&style=flat" alt="richajha23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richajha23" alt="richajha23" /></a> </p>
