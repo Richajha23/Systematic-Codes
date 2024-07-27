@@ -72,7 +72,6 @@ Welcome to my GitHub profile! I'm a passionate learner with skills in HTML, C, C
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richajha23&" alt="richajha23" /></p>
 # Systematic-Codes
-Hello world, this is my profile.
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
