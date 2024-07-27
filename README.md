@@ -40,8 +40,6 @@ Welcome to my GitHub profile! I'm a passionate learner with skills in HTML, C, C
 - [Portfolio](#)
 
 ---
-
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or learn together.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richajha23&label=Profile%20views&color=0e75b6&style=flat" alt="richajha23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richajha23" alt="richajha23" /></a> </p>
@@ -89,7 +87,7 @@ Hello world, this is my profile.
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or learn together.
 ###
 
 
