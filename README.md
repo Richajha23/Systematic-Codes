@@ -1,3 +1,48 @@
+# 👋 Hello, I'm Richa Jha
+
+Welcome to my GitHub profile! I'm a passionate learner with skills in HTML, C, C++, and Data Structures and Algorithms (DSA). I love exploring new technologies and improving my coding skills. Here you'll find some of the projects I've worked on, showcasing my journey and growth as a developer.
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: HTML, C, C++
+- **Concepts**: Data Structures and Algorithms (DSA)
+- **Tools**: Git, GitHub, VS Code
+
+---
+
+## 📚 Projects
+
+### 1. [Project Name](#)
+**Description**: A brief description of what the project does.
+
+**Technologies Used**: HTML, C++
+
+### 2. [Project Name](#)
+**Description**: A brief description of what the project does.
+
+**Technologies Used**: C, DSA
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](#)
+- [Twitter](#)
+- [Portfolio](#)
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or learn together.
+
 
 <h1 align="center">Hi 👋, I'm Richa Jha</h1>
 <h3 align="center">A passionate coding student from India</h3>
